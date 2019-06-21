@@ -1,4 +1,4 @@
-# meTAInstall
+# Metasploit
 Metasploit Install
 
 $pkg update 
