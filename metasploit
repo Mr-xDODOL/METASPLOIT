@@ -32,7 +32,7 @@ toilet -f smslant -F gay 'meTAInstall'
 sleep 1
 echo "\033[33;1m Metasploit Installer" "\033[37;1m From" "\033[36;1mIndonesia Security Lite"
 sleep 1
-echo "\033[31;1m Subkreb YouTube" "\033[36;1mHeXerz"
+echo "\033[31;1m Subscribe YouTube" "\033[36;1mMrxDODOL"
 
 echo " "
 echo "____________________________________________________________"|lolcat
@@ -52,13 +52,13 @@ echo "\033[31;1mJangan Sampai Layar Ponsel Anda Mati"
 sleep 1
 echo "\033[31;1mJangan Keluar Dari Aplikasi Termux"
 sleep 1
-echo "\033[31;1mJangan Lupa Subkreb Chanel YouTube Kami"
+echo "\033[31;1mJangan Lupa Subscribe Chanel YouTube Kami"
 echo "____________________________________________________________"|lolcat
 sleep 3
 echo "\033[35;1m            Bila Sakit Berlanjut Hubungi Dokter"
 echo "------------------------------------------------------------"|lolcat
-read -p "Siap? [Y/T]=" MrIM81
-if [ $MrIM81 = Y ] || [ $MrIM81 = y ]
+read -p "Siap? [Y/T]=" MrxDODOL
+if [ $MrXDODOL = Y ] || [ $MrxDODOL = y ]
 then
 echo "\033[32;1mProses Penginstalan Package Yang Dibutuhkan"
 pkg install unstable-repo
@@ -72,7 +72,7 @@ sleep 2
 msfconsole
 fi
 
-if [ $MrIM81 = T ] || [ $MrIM81 = t ]
+if [ $MrxDODOL = T ] || [ $MrxDODOL = t ]
 then
 echo "Mungkin Lain Kali"
 exit
